@@ -1,0 +1,36 @@
+{
+  "name": "start-template",
+  "version": "0.0.1",
+  "description": "Стартовый шаблон для разработки",
+  "main": "package.json",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/andrew-ejov/start-template.git"
+  },
+  "author": "Andrew Ejov",
+  "license": {
+    "type": "MIT",
+    "url": " "
+  },
+  "bugs": {
+    "url": "https://github.com/andrew-ejov/start-template/issues"
+  },
+  "homepage": " ",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-concat": "latest",
+    "grunt-contrib-copy": "latest",
+    "grunt-contrib-jshint": "latest",
+    "grunt-contrib-sass": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-modernizr": "latest",
+    "grunt-notify": "^0.4.1",
+    "grunt-spritesmith": "^5.0.0",
+    "node-bourbon": "^4.2.3"
+  }
+}

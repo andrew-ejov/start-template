@@ -1,0 +1,29 @@
+{
+  "name": "start-template",
+  "version": "0.0.0",
+  "description": "Стартовый шаблон",
+  "main": "index.html",
+  "keywords": [
+    "start template"
+  ],
+  "authors": [
+    "ioj"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "3.3.5",
+    "bourbon": "~4.2.4",
+    "font-awesome": "latest",
+    "html5shiv": "latest",
+    "jquery": "1.11.3",
+    "modernizr": "latest",
+    "respond": "latest"
+  }
+}
